@@ -1,0 +1,131 @@
+.header {
+  font-family: "SF Pro Display";
+  font-style: normal;
+  font-weight: 150;
+  font-size: 15px;
+  line-height: 100%;
+  letter-spacing: 0.025em;
+  background-color: #050222;
+  padding: 0px 0px;
+  height: 230px;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0px auto;
+}
+
+.header_row {
+  display: flex;
+  justify-content: space-between;
+}
+
+.header_row {
+  color: #FFFF;
+}
+
+.city {
+  margin: 50px 0px 40px 0px;
+}
+
+.city_top {
+  border-bottom: 0.5px dashed;
+}
+
+.list {
+  margin: 50px 0px 0px 0px;
+}
+
+.list li {
+  margin-bottom: 40px;
+}
+
+.header_commun a {
+  color: #FFF;
+}
+
+.icon_commun {
+  margin: 40px 0px 0px -34px;
+}
+
+.icon_commun li {
+  display: inline;
+}
+
+.list_icon li {
+  margin: 0px 0px 0px 20px;
+}
+
+.header_bot {
+  font-family: "SF Pro Display";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 15px;
+  line-height: 100%;
+  letter-spacing: 0.185em;
+}
+
+.header_bot a {
+  color: #f6f6f6;
+}
+
+.container_headerbot {
+  max-width: 1200px;
+  margin: 0px auto;
+  height: 60px;
+}
+
+.header_bot_row {
+  display: flex;
+  justify-content: space-between;
+}
+
+.header_menu {
+  width: 60%;
+  padding: 20px 0px 0px 0px;
+}
+
+.header_menu li {
+  display: inline;
+}
+
+.menu_list {
+  margin: 0px 0px 0px -45px;
+}
+
+.menu_list li:hover > a {
+  color: #A262BA;
+}
+
+.menu_list li {
+  margin: 0px 45px 0px 0px;
+}
+
+.shopping_cart li {
+  display: inline;
+}
+
+.list_item_shopping_cart {
+  position: relative;
+  top: 20px;
+}
+
+.Hearts {
+  position: relative;
+  bottom: 6px;
+  right: 30px;
+}
+
+.shopping_cart_icon {
+  position: relative;
+  bottom: 15px;
+  right: 15px;
+}
+
+.shopping_cart li :hover {
+  color: #A262BA;
+}
+
+.shopping_cart src :hover {
+  color: #A262BA;
+}
